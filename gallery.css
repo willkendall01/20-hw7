@@ -2,6 +2,12 @@ html body {
 	margin: 0 0;
 }
 
+.title {
+	text-align: center;
+	font-size: 24px;
+}
+
+
 .container {
 	display: flex;
 	justify-content: center;
