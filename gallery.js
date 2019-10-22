@@ -11,7 +11,7 @@
 var animals = new Art("Wild", "$111,449", "Horse.jpeg", "Horse.jpeg")
 var chevron = new Art("Home", "$1,000", "OurHouse.jpeg", "OurHouse.jpeg")
 var breaths = new Art("Breathe Together", "$500,000", "tower.jpg", "tower.jpg")
-var crimson = new Art("Whiskers", "$432", "Whiskers.jpeg", "Whiskers.jpeg")
+var crimson = new Art("Whiskers", "$432", "whiskers.jpeg", "whiskers.jpeg")
 var breathe = new Art("Connect", "$250,000", "connect.jpeg", "connect.jpeg")
 
 
