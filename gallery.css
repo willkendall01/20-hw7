@@ -1,0 +1,65 @@
+html body {
+	margin: 0 0;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+
+}
+.pic {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+
+.overlay-off {
+	display: none;
+}
+
+.overlay {
+  position: absolute;
+  background: rgba(128,128,128,.8);
+  color: #f1f1f1; 
+  width: 100%;
+  opacity:1;
+  font-size: 20px;
+  text-align: center;
+  align-content: center;
+  height: 100%;
+}
+
+.banner {
+	max-height: 400px;
+	width: auto;
+	margin: 0 auto;
+}
+
+.thumbnails {
+	margin: 20px;
+	width: 100%;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.thumbnail {
+	width: 200px;
+	height: 200px;
+	position: relative;
+	overflow: hidden;
+}
+
+
+.head-maj {
+	margin-top: 20px;
+	margin-bottom: 5px;
+	display: flex;
+	justify-content: center;
+	height: 400px;
+	background-color: rgba(128,128,128,.8);
+	padding: 10px;
+
+}
+
+
